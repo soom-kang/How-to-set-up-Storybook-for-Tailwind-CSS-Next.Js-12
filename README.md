@@ -1,6 +1,6 @@
 ## Abstract
 
-Introducing how to apply `Storybook` to `Next.js` framework.
+Introducing how to apply `Storybook` for `Tailwindcss` component on `Next.js` framework.
 
 UI Component Documentation 하면 떠오르는 가장 대표적인 도구는 바로 `Storybook` 이다.
 이번에 포스팅할 내용은 Utility-first CSS framework인 `Tailwind CSS`를 적용한 `Next.Js` 기반 Storybook 을 작성하는 방법이다.
